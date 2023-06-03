@@ -6,6 +6,9 @@ function home () {
         <Def>
             <main>
                 <h1>HOME</h1>
+                    <button className="btn-primary">Places Page</button>
+                        <a href="/places">
+                        </a>
             </main>
         </Def>
     )
